@@ -1,2 +1,1 @@
-# SampleRepository
-This is sample repository
+my updated file contents
